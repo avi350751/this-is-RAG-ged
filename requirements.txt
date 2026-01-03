@@ -1,0 +1,11 @@
+pypdf
+beautifulsoup4
+lxml
+python-dotenv
+tiktoken
+ipykernel
+langchain
+langchain-openai
+langchain-chroma
+chromadb
+faiss-cpu
