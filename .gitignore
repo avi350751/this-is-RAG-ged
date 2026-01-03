@@ -1,0 +1,3 @@
+*.ragenv
+*.env
+.DS_Store
